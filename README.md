@@ -2,7 +2,7 @@
 
 Atividade ponderada desenvolvida por Davi Nascimento de Jesus.
 
-**Vídeo-demo da solução:** encontre-o [aqui](https://drive.google.com/file/d/1-olajy-yTA4I_h1cOiMG7t7pUFNk7of0/view?usp=sharing).
+**Vídeo-demo da solução:** encontre-o [aqui](https://drive.google.com/file/d/14p4JXxCrQYUaes98auF0Mb9f6MxEJFy3/view?usp=sharing).
 
 ## 📌 Descrição do Projeto
 
@@ -73,7 +73,7 @@ python main.py
 
 ### 4. Aplique os filtros e have fun!
 
-Clicando nos botões dos filtros, é possível se divertir com as possibilidades acumulativas que a imagem vai adquirindo. É possível ver um exemplo no vídeo demo da atividade que pode ser encontrado [aqui](https://drive.google.com/file/d/1-olajy-yTA4I_h1cOiMG7t7pUFNk7of0/view?usp=sharing).
+Clicando nos botões dos filtros, é possível se divertir com as possibilidades acumulativas que a imagem vai adquirindo. É possível ver um exemplo no vídeo demo da atividade que pode ser encontrado [aqui](https://drive.google.com/file/d/14p4JXxCrQYUaes98auF0Mb9f6MxEJFy3/view?usp=sharing).
 
 ## 💬 Considerações Finais
 
